@@ -7,9 +7,7 @@ position to a target, actively avoiding a known obstacle, with a
 mathematically enforced safety guarantee at the lowest level.
 
 > **Important:** This project has been developed and verified **only
-> in simulation**. It has never been run on a real robot. See
-> "Moving to Real Hardware" below before attempting to deploy this on
-> actual Franka hardware.
+> in simulation**.
 
 ---
 
