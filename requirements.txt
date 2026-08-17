@@ -1,0 +1,7 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+osqp>=0.6.3
+gtsam>=4.2
+mujoco>=3.1
+dm_control>=1.0.16   # optional, for Franka model assets if not using local XML
